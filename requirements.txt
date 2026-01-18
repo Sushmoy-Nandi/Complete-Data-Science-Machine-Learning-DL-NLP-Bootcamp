@@ -2,3 +2,5 @@ numpy
 pandas
 matplotlib
 seaborn
+requests
+bs4
