@@ -5,3 +5,4 @@ seaborn
 requests
 bs4
 flask
+scikit-learn
