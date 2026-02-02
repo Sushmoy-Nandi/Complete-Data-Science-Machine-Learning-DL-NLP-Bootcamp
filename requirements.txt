@@ -6,3 +6,4 @@ requests
 bs4
 flask
 scikit-learn
+openpyxl
